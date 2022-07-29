@@ -1,7 +1,4 @@
-#### *GNG5125 Data Science Applications*
-#### *Spring-Summer 2022*
-#### *Yinruo Jiang (300274815), Rasheeq Mohammad (6849734) , Shahin Mahmud (300274789)*
-#### *Assignment 1: Text Classification*
+#### Text Classification
 
 ---
 
